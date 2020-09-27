@@ -6,6 +6,8 @@ How to be a fullstack developer in web? Just Follow the instructions 😋
 ## How To Use It
 - Fork this repo into your local system or your github account
 - **just learn and put an x in the brackets: Example -> [x]**
+### Explain More
+**Attribute Explaination: - [ ] NAME - Priority - Link To More Description OR Sources**
 
 ## Table of Contents
 - [General Topics](#general-topics)
@@ -24,8 +26,44 @@ How to be a fullstack developer in web? Just Follow the instructions 😋
 - [ ] SSH
 
 ### Front End
-- [ ] List Item
-	- [ ] Sub List Item
+- [ ] HTML
+	- [ ] Basics, Elements, Structure
+	- [ ] Improve SEO with HTML
+- [ ] CSS
+	- [ ] Basics
+	- [ ] Making Layouts
+		- [ ] Positions
+		- [ ] Display
+		- [ ] Box Models
+		- [ ] CSS Grids
+	- [ ] Flex Box
+	- [ ] Responsive Design & Media Queries
+	- [ ] PreProcessors
+		- [ ] SASS
+		- [ ] LESS
+	- [ ] FrameWorks
+		- [ ] Tailwind CSS
+		- [ ] Material UI
+		- [ ] Bootstrap
+	
+- [ ] Javascript
+	- [ ] Basics, Syntax, Functions
+	- [ ] DOM Manipulation
+	- [ ] Ajax (XHR) Request
+	- [ ] Ecma Scripts 6 7 8
+	- [ ] Digging Deeper
+		- [ ] Comming Soon
+	- [ ] Package Managers
+		- [ ] NPM
+			- [ ] Tasks Runner
+		- [ ] YARN
+	- [ ] WebPack
+	- [ ] FrameWorks
+		- [ ] Vue
+			- [ ] Vue X
+		- [ ] React JS
+			- [ ] Redux
+	- [ ] UNIT Testing In JavaScript
 
 ### Back End
 - [ ] List Item
