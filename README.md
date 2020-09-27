@@ -36,7 +36,7 @@ How to be a fullstack developer in web? Just Follow the instructions 😋
 	- [ ] Sub List Item
 
 ## Resources
-- [Web Developer Roadmap](#https://github.com/kamranahmedse/developer-roadmap)
+- [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
 
 ## Licence
