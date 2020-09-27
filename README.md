@@ -9,8 +9,9 @@ How to be a fullstack developer in web? Just Follow the instructions 😋
 
 ## Table of Contents
 - [General Topics](#general-topics)
-- [Front End Topics](#front-end-topics)
-- [Back End Topics](#back-end-topics)
+- [Front End Topics](#front-end)
+- [Back End Topics](#back-end)
+- [DevOps](#devops)
 
 ## Contents
 ### General Topics
