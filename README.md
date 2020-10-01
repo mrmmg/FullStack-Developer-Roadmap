@@ -66,9 +66,31 @@ How to be a fullstack developer in web? Just Follow the instructions 😋
 	- [ ] UNIT Testing In JavaScript
 
 ### Back End
-- [ ] List Item
-	- [ ] Sub List Item
-
+- [ ] General 
+	- [ ] Basic Linux Knowledge
+		- [ ] Commands
+		- [ ] Process Managment
+		- [ ] Memory Managment
+		- [ ] I/O Managment
+		- [ ] Network + Basic Configuration
+- [ ] Internet
+	- [ ] HTTP / HTTPS
+	- [ ] DNS, Domain Name
+	- [ ] Hosting
+- [ ] Learn Datebase
+	- [ ] Basic Concepts About DBs
+		- [ ] ORM
+		- [ ] ACID
+		- [ ] Transactions
+		- [ ] Database Normalalization
+		- [ ] Indexing
+		- [ ] N+1 Problem
+	- [ ] Relationship Datebase
+		- [ ] MySQL
+		- [ ] PostgreSQL
+	- [ ] Non-Relational Database (NoSQL)
+		- [ ] MongoDB
+- [ ] 
 ### DevOPS
 - [ ] List Item
 	- [ ] Sub List Item
