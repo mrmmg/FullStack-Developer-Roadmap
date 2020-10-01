@@ -74,7 +74,7 @@ How to be a fullstack developer in web? Just Follow the instructions 😋
 		- [ ] I/O Managment
 		- [ ] Network + Basic Configuration
 - [ ] Internet
-	- [ ] HTTP / HTTPS
+	- [ ] HTTP
 	- [ ] DNS, Domain Name
 	- [ ] Hosting
 - [ ] Learn Datebase
@@ -90,7 +90,42 @@ How to be a fullstack developer in web? Just Follow the instructions 😋
 		- [ ] PostgreSQL
 	- [ ] Non-Relational Database (NoSQL)
 		- [ ] MongoDB
-- [ ] 
+- [ ] APIs
+	- [ ] Authentice
+		- [ ] OAuth
+		- [ ] Basic Auth
+		- [ ] Token Basic Auth
+		- [ ] JWT
+	- [ ] RESTFUL
+	- [ ] JSON API
+- [ ] Caching
+	- [ ] Server Based
+		- [ ] Redis
+		- [ ] Memcached
+	- [ ] Client Side
+	- [ ] CDN
+- [ ] WEB Security
+	- [ ] Hashing
+		- [ ] MD5
+		- [ ] SHAx
+		- [ ] Bcrypt
+		- [ ] Scrypt
+	- [ ] HTTPS
+	- [ ] SSL/TLS
+	- [ ] OWASP Security Risks
+- [ ] What is Testing?
+	- [ ] Integration Testing
+	- [ ] Unit Testing
+	- [ ] Functional Testing
+	- [ ] CI / CD
+- [ ] Design Pattern
+- [ ] SOLID
+- [ ] Docker & Kubernetes
+- [ ] Webserver
+	- [ ] Nginx
+	- [ ] Apache
+	- [ ] Websocket
+		
 ### DevOPS
 - [ ] List Item
 	- [ ] Sub List Item
