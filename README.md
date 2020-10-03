@@ -1,4 +1,3 @@
-[General Topics Test](General%20Topics.md#test)
 # FullStack Developer Roadmap
 
 How to be a fullstack developer in web? Just Follow the instructions 😋
