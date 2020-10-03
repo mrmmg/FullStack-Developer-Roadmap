@@ -1,4 +1,4 @@
-> This file is placed in order to create a place to place links and courses related to [General Topics](README.md#gerenal-topics) If you have not read Readme File, read [it](README.md) first.
+> This file is placed in order to create a place to place links and courses related to [General Topics](README.md#general-topics) If you have not read Readme File, read [it](README.md) first.
 
 # Git
 - [Git From JADI](https://faradars.org/courses/fvgit9609-git-github-gitlab)
