@@ -131,12 +131,14 @@ How to be a fullstack developer in web? Just Follow the instructions 😋
 	- [ ] Websocket
 		
 ### DevOPS
-- [ ] List Item
-	- [ ] Sub List Item
+#### COMMING SOON!
 
 ## Resources
 - [Web Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+
+## Contributors
+> Simply With A PR (Pull Request) Be a contributors!
 
 ## Licence
 [MIT Licence](https://github.com/mrmmg/FullStack-Developer-Roadmap/blob/master/LICENSE)
