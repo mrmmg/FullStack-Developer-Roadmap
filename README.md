@@ -9,6 +9,8 @@ How to be a fullstack developer in web? Just Follow the instructions 😋
 ### Explain More
 **Attribute Explaination: - [ ] NAME - Priority - Link To More Description OR Sources**
 
+> Note That: I Started Priority At 0.
+
 ## Table of Contents
 - [General Topics](#general-topics)
 - [Front End Topics](#front-end)
