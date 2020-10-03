@@ -21,13 +21,13 @@ How to be a fullstack developer in web? Just Follow the instructions 😋
 
 ## Contents
 ### General Topics
- - [ ] Git
+ - [ ] Git - 0 - [Learn Git & Github](#General-Topics.md#git)
 	 - [ ] Github & Gitlab
 	 - [ ] Licences
-- [ ] Data Structures & Algorithms
-- [ ] Design Pattern
-- [ ] HTTP & HTTPS
-- [ ] SSH
+- [ ] Design Pattern - 1 - [Learn Design Pattern](#General-Topics.md#design-pattern)
+- [ ] HTTP & HTTPS - 2 - [Learn Http and Https](#General-Topics.md#http-and-https)
+- [ ] SSH - 3 - [Learn SSH](#General-Topics.md#ssh)
+- [ ] Data Structures & Algorithms - 4 - [Learn DS & Algorithms](#General-Topics.md#data-structure-and-algorithm)
 
 ### Front End
 - [ ] HTML
