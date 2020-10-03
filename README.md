@@ -11,6 +11,7 @@ How to be a fullstack developer in web? Just Follow the instructions 😋
 
 ##### Note That:
 1- I Started Priority At 0.
+
 2- Each Topics Description Are Stored In a Seperated File. But Don't Worry! Follow Links :)
 
 ## Table of Contents
